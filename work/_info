@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dV:/COMBINATIONAL/VERILOG CODES
+T_opt
+!s110 1732707686
+VbV@Jajk[LoJ?`1D_GUE6i3
+04 13 4 work half_adder_tb fast 0
+=1-04d4c47e4eda-67470565-a8-479c
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vhalf_adder
+!s110 1732708236
+!i10b 1
+!s100 3>Z>?=Qa1^YR:bV]7b4L91
+Ila2o2W]_4mza57jTEoeW80
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1732101511
+8HALF_ADDER.v
+FHALF_ADDER.v
+L0 32
+Z3 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1732708235.000000
+!s107 HALF_ADDER.v|
+!s90 -reportprogress|300|HALF_ADDER.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vhalf_adder_tb
+!s110 1732708248
+!i10b 1
+!s100 R94ZECYiUCF^XMJUVEfB;0
+I:hPDbImZf40OJgneT5jgV1
+R2
+R0
+w1732101639
+8HALF_ADDER_TB.v
+FHALF_ADDER_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1732708248.000000
+!s107 HALF_ADDER_TB.v|
+!s90 -reportprogress|300|HALF_ADDER_TB.v|
+!i113 0
+R4
+R1
